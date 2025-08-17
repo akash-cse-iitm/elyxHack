@@ -1,0 +1,21 @@
+panel_date,fasting_glucose,ldl,hdl,triglycerides,hs_crp,vit_d,systolic_bp,diastolic_bp,notes
+2023-01-01,112.3,156.9,36.8,199.5,2.73,23.8,144,92,Good progress; HDL rising.
+2023-01-02,111.1,161.4,38.4,189.5,2.78,21.9,145,95,Baseline labs: elevated LDL and BP.
+2023-01-03,112.1,163.2,36.5,186.1,2.71,22.9,144,93,Steady improvement in lipids and inflammation.
+2023-01-04,112.8,161.6,36.4,181.8,2.75,20.9,144,93,Better cholesterol profile emerging.
+2023-01-05,111.8,162.3,36.8,180.2,2.58,21.3,148,93,Baseline labs: elevated LDL and BP.
+2023-01-06,111.7,156.9,36.4,181.1,2.79,22.8,147,94,Marked improvement in BP control.
+2023-01-07,110.1,154.7,37.5,190.1,2.76,23.9,142,93,Good progress; HDL rising.
+2023-01-08,110.1,163.3,39.1,191.1,2.67,22.8,146,91,Slight improvement with lifestyle changes.
+2023-01-09,108.5,157.6,37.8,180.5,2.81,22.2,146,94,Excellent response to interventions.
+2023-01-10,114.7,157.7,37.3,192.7,2.83,22.6,142,95,Excellent response to interventions.
+2023-01-11,108.7,162.2,37.4,185.6,2.57,21.4,146,94,Slight improvement with lifestyle changes.
+2023-01-12,109.7,159.7,36.2,188.5,2.65,23.3,147,92,Good progress; HDL rising.
+2023-01-13,109.5,159.3,38.7,195.6,2.64,23.7,142,93,Marked improvement in BP control.
+2023-01-14,112.7,164.2,37.8,191.9,2.61,22.4,142,93,Marked improvement in BP control.
+2023-01-15,110.2,155.6,37.7,185.8,2.78,22.4,146,94,Better cholesterol profile emerging.
+2023-01-16,113.2,160.1,41.2,182.5,2.68,23.2,144,94,Marked improvement in BP control.
+2023-01-17,109.3,157.4,38.3,176.0,2.66,22.6,145,92,Excellent response to interventions.
+2023-01-18,111.1,157.8,37.4,183.0,2.48,23.0,144,93,Slight improvement with lifestyle changes.
+2023-01-19,108.8,161.4,37.7,185.3,2.74,25.3,144,94,Excellent response to interventions.
+2023-01-20,114.7,158.2,39.4,181.2,2.54,23.0,141,95,Baseline labs: elevated LDL and BP.

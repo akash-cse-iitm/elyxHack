@@ -1,0 +1,473 @@
+1.  [1/2/23, 10:05 AM] Ruby (Elyx Concierge): Hey, weekly check-in! Your daily steps are up to 3261, sleep is 7.41 hours, and HRV is 49.7. CGM data shows a mean of 99.9 mg/dL with a peak of 142.2 mg/dL.
+2.  [1/2/23, 12:15 PM] Neel (Elyx Concierge Lead): Hi, just reviewing your CGM data. Noticing a slight increase in mean glucose levels over the past few months. Would you like to discuss any changes to your diet or routine?
+3.  [1/2/23, 9:45 AM] Carla (Elyx Nutrition): Great job on those daily steps, Elyx member! Let's discuss ways to optimize your nutrition plan to support your fitness goals.
+4.  [1/6/23, 9:45 AM] Carla (Elyx Nutrition): Just had a big CGM spike today, let's review your diet and see if we can make some adjustments.
+5.  [1/6/23, 10:10 AM] Advik (Elyx Lifestyle): How's your sleep been lately? That 6.05 hours of sleep doesn't seem like much.
+6.  [1/7/23, 10:45 AM] Carla (Elyx Nutrition): Hey, noticed your CGM spike today. What did you eat before it happened?
+7.  [1/7/23, 11:15 AM] Advik (Elyx Lifestyle): Carla, I think we should review your daily habits. That spike might be related to your diet change.
+8.  [1/7/23, 10:45 AM] Carla (Elyx Nutrition): Your daily steps are a bit low today, aim for 7,000 to 8,000 steps for optimal health benefits.
+9.  [1/7/23, 12:10 PM] Dr. Warren (Elyx Medical): Your recent CGM readings suggest some fluctuations in blood glucose levels. I'd like to discuss this further with you, let's schedule a call for tomorrow.
+10.  [1/7/23, 8:20 PM] Carla (Elyx Nutrition): Don't forget to drink plenty of water throughout the day. Aim for at least 8 cups (64 oz) to stay hydrated.
+11.  [1/9/23, 9:45 AM] Carla (Elyx Nutrition): Just had a CGM spike, let's review your diet change from yesterday.
+12.  [1/9/23, 10:45 AM] Ruby (Elyx Concierge): Hey, quick check-in! How's your day going so far? Any challenges or wins?
+13.  [1/9/23, 11:10 AM] Neel (Elyx Concierge Lead): Hi, just reviewing your CGM data. Noticed some fluctuations in your mean readings. Would you like to discuss?
+14.  [1/9/23, 12:05 PM] Carla (Elyx Nutrition): Hey, your daily steps are looking great! Keep up the good work. How's your hydration been?
+15.  [1/10/23, 10:45 AM] Carla (Elyx Nutrition): Your daily steps are impressive at 5568! Keep up the good work.
+16.  [1/14/23, 9:45 AM] Carla (Elyx Nutrition): Just had a CGM spike, need to review diet change impact.
+17.  [1/14/23, 10:10 AM] Carla (Elyx Nutrition): Steps were 4858, sleep 7.8 hours, HRV 49.5 and RHR 63.
+18.  [1/16/23, 10:45 AM] Ruby (Elyx Concierge): Great to catch up! Your steps and sleep look on track, but your HRV is a bit low. Let's discuss ways to improve it.
+19.  [1/16/23, 11:10 AM] Neel (Elyx Concierge Lead): Hi Carla, I've been reviewing the CGM data. There's a noticeable spike on 7/12. Would you like me to investigate further?
+20.  [1/16/23, 12:05 PM] Carla (Elyx Nutrition): Hi Neel, yes please look into the 7/12 spike. Also, let's discuss ways to optimize my nutrition plan to better manage those blood sugar peaks.
+21.  [1/17/23, 9:45 AM] Rachel (Elyx PT): Great job on the 4035 steps today! How's your stress levels feeling?
+22.  [1/17/23, 10:10 AM] Carla (Elyx Nutrition): Don't forget to stay hydrated today, especially with your HRV at 49.3. Aim for at least 8 glasses of water.
+23.  [1/17/23, 11:40 AM] Advik (Elyx Lifestyle): Your CGM data shows some fluctuations. Let's discuss this in our next meeting to create a plan to stabilize your blood sugar levels.
+24.  [1/17/23, 9:45 AM] Carla (Elyx Nutrition): Hey, noticed a CGM spike today. Let's review your diet change and see if we can find any correlations.
+25.  [1/17/23, 11:15 AM] Advik (Elyx Lifestyle): Hey, how's your sleep been lately? Your daily summary shows 7.37 hours, but I'm not sure if that's your usual range.
+26.  [1/18/23, 12:45 PM] Carla (Elyx Nutrition): Hey, noticed a spike in your CGM reading today. Did you make any changes to your diet recently?
+27.  [1/18/23, 02:10 PM] Advik (Elyx Lifestyle): Your daily steps are great, but sleep could be improved. Aim for 7-8 hours tonight.
+28.  [1/19/23, 9:45 AM] Carla (Elyx Nutrition): Just had a CGM spike, need to review diet change.
+29.  [1/19/23, 10:10 AM] Advik (Elyx Lifestyle): How's your sleep been lately? 6.54 hours isn't great, let's work on that.
+30.  [1/20/23, 8:47 AM] Rachel (Elyx PT): Just reviewed your daily summary, noticed your HRV is a bit low at 23.7. Let's discuss how to improve it in our next session.
+31.  [1/20/23, 9:12 AM] Advik (Elyx Lifestyle): Your CGM data shows a mean of 111.8 mg/dL, which is within the normal range. However, the peak of 134.8 mg/dL is a bit high. We should discuss ways to manage your blood sugar levels.
+32.  [1/21/23, 10:45 AM] Carla (Elyx Nutrition): Your daily steps are looking good at 5039! Keep moving.
+33.  [1/21/23, 12:10 PM] Dr. Warren (Elyx Medical): Carla, I've reviewed the CGM data. The recent spike on 7/12 might be worth discussing.
+34.  [1/22/23, 10:45 AM] Rachel (Elyx PT): Your daily stress levels seem high. Let's discuss autonomic stress management in our next session.
+35.  [1/22/23, 11:10 AM] Advik (Elyx Lifestyle): Just hit 5540 steps today! Feeling energized. How about you?
+36.  [1/22/23, 12:20 PM] Rachel (Elyx PT): Great job on your steps, Advik! Did you notice any changes in your HRV or RHR today?
+37.  [1/23/23, 9:45 AM] Carla (Elyx Nutrition): Great job on those 5996 steps! Keep moving to reduce autonomic stress.
+38.  [1/23/23, 10:10 AM] Rachel (Elyx PT): Your HRV is looking good at 47.8! Let's work on that sleep tonight.
+39.  [1/23/23, 11:20 AM] Advik (Elyx Lifestyle): How's your hydration today? We can discuss ways to improve it and manage those CGM spikes.
+40.  [1/23/23, 10:45 AM] Carla (Elyx Nutrition): Just had a CGM spike, let's review your diet for the day. What did you eat before lunch?
+41.  [1/23/23, 11:15 AM] Advik (Elyx Lifestyle): Hey, I noticed your HRV is a bit low today. Did you get enough sleep last night?
+42.  [1/23/23, 9:45 AM] Carla (Elyx Nutrition): Great job on the 5996 steps today! Keep up the good work.
+43.  [1/23/23, 10:10 AM] Ruby (Elyx Concierge): Just a heads up, your next nutrition consultation is scheduled for this Friday at 2 PM.
+44.  [1/23/23, 11:05 AM] Neel (Elyx Concierge Lead): Your HRV is looking good at 47.8. Keep an eye on your sleep and we can discuss further.
+45.  [1/25/23, 2:45 PM] Carla (Elyx Nutrition): Great job on the 4837 steps today! How's your hydration been?
+46.  [1/25/23, 9:10 AM] Rachel (Elyx PT): Your HRV is looking a bit low today, Carla. Have you been managing stress?
+47.  [1/25/23, 5:30 PM] Advik (Elyx Lifestyle): Did you notice your CGM numbers were a bit higher today?
+48.  [1/26/23, 9:45 AM] Carla (Elyx Nutrition): Great job on those 5454 steps today! Keep it up and let's discuss ways to improve your sleep.
+49.  [1/26/23, 10:10 AM] Rachel (Elyx PT): Your HRV is a bit low at 36.2. Let's work on some stress-reducing exercises to help regulate your autonomic nervous system.
+50.  [1/26/23, 11:20 AM] Advik (Elyx Lifestyle): I see your CGM readings have been a bit high lately. Have you considered adjusting your diet to better manage your blood sugar levels?
+51.  [1/26/23, 8:45 AM] Carla (Elyx Nutrition): Hey, noticed a spike in your CGM reading today. What did you eat for breakfast?
+52.  [1/26/23, 9:10 AM] Advik (Elyx Lifestyle): Hey, how's your hydration level today?
+53.  [1/30/23, 10:45 AM] Carla (Elyx Nutrition): Your daily steps are looking great, but let's work on improving your sleep and stress levels. We can discuss this further in our next session.
+54.  [1/30/23, 11:10 AM] Rachel (Elyx PT): Just reviewed your HRV and RHR. It seems like you're experiencing some autonomic stress. We should incorporate more relaxation techniques into your routine.
+55.  [1/30/23, 12:20 PM] Advik (Elyx Lifestyle): I noticed your CGM readings have been a bit high lately. Have you considered adjusting your diet or incorporating more physical activity to manage your blood sugar levels?
+56.  [1/30/23, 9:45 AM] Ruby (Elyx Concierge): Hey, just checked in on your wearable data. It looks like there's a gap in your sleep and HRV tracking. Can you please sync your wearable device?
+57.  [1/30/23, 10:15 AM] Neel (Elyx Concierge Lead): Hi, I noticed your CGM readings have been a bit inconsistent. Let's discuss this further in our next call. I'll send over some questions to get more context.
+58.  [1/30/23, 11:30 AM] Advik (Elyx Lifestyle): Hey, I wanted to remind you that your daily step count has been lower than usual. Have you noticed any changes in your daily routine that might be affecting this?
+59.  [1/31/23, 10:45 AM] Carla (Elyx Nutrition): Hey, noticed a spike in your CGM reading today. Did you make any changes to your diet recently?
+60.  [1/31/23, 12:15 PM] Advik (Elyx Lifestyle): How's your sleep been lately? Your HRV is a bit low, might want to focus on getting some quality rest tonight.
+61.  [2/1/23, 9:45 AM] Carla (Elyx Nutrition): Just had a CGM spike, think it's related to diet change. Need to review my macros for today.
+62.  [2/1/23, 10:10 AM] Carla (Elyx Nutrition): Steps were good today, 6316. Sleep was 8.47 hours and HRV is 39.1. RHR is 68.
+63.  [2/1/23, 11:20 AM] Advik (Elyx Lifestyle): Great job on the steps, Carla! Remember to stay hydrated and manage that CGM spike.
+64.  [2/2/23, 10:45 AM] Carla (Elyx Nutrition): Just had a CGM spike, mean of 99.1 mg/dL and peak of 169.0 mg/dL. Time to review diet change.
+65.  [2/2/23, 11:10 AM] Advik (Elyx Lifestyle): Hey Carla, let's discuss your recent CGM spike. What's your daily step count been like?
+66.  [2/3/23, 12:45 PM] Carla (Elyx Nutrition): Just had a CGM spike, time to review my diet change. What do you think I should do?
+67.  [2/3/23, 3:10 PM] Advik (Elyx Lifestyle): Hey Carla, how's your daily routine? Steps are decent but sleep could be better.
+68.  [2/6/23, 10:45 AM] Rachel (Elyx PT): Great job on the exercise today! I noticed your HRV was a bit low, let's work on stress management techniques in our next session.
+69.  [2/6/23, 11:15 AM] Carla (Elyx Nutrition): Just a reminder to stay hydrated today, especially with your high step count. Aim for at least 8 glasses of water.
+70.  [2/6/23, 12:30 PM] Advik (Elyx Lifestyle): Your CGM data shows some interesting fluctuations. Let's discuss ways to optimize your blood sugar management during our next call.
+71.  [2/6/23, 10:45 AM] Carla (Elyx Nutrition): Your daily steps are up! Keep moving and let's review your CGM data from last week.
+72.  [2/6/23, 12:10 PM] Ruby (Elyx Concierge): Hi, just wanted to check in on your sleep and HRV numbers. How are you feeling today?
+73.  [2/6/23, 2:50 PM] Neel (Elyx Concierge Lead): I've taken a look at your CGM history and noticed a few spikes. Let's discuss some strategies to manage those peaks in our next call.
+74.  [2/7/23, 9:45 AM] Rachel (Elyx PT): Your daily steps are impressive, but let's work on improving your sleep quality and HRV.
+75.  [2/7/23, 10:10 AM] Advik (Elyx Lifestyle): Great job on reaching 5026 steps today! How can I help you optimize your daily routine for better overall health?
+76.  [2/7/23, 8:45 AM] Carla (Elyx Nutrition): Spikes like that can be a sign of poor digestion. Let's review your diet for the past 24 hours.
+77.  [2/7/23, 9:12 AM] Advik (Elyx Lifestyle): How's your hydration been? Sometimes, even mild dehydration can cause a spike in blood sugar levels.
+78.  [2/7/23, 9:45 AM] Carla (Elyx Nutrition): Just got your daily summary - 5026 steps, 6.52 hours of sleep, and an HRV of 42.1. Let's discuss the CGM data.
+79.  [2/7/23, 10:15 AM] Dr. Warren (Elyx Medical): I've reviewed the CGM data. Your mean glucose levels are slightly higher than usual. I'd like to schedule a follow-up appointment to discuss further.
+80.  [2/7/23, 11:30 AM] Carla (Elyx Nutrition): Sent you a few CGM snippets from previous days. Take a look and let me know if you'd like to discuss any patterns or trends.
+81.  [2/9/23, 10:45 AM] Carla (Elyx Nutrition): Great job on those 5985 steps today! Keep it up.
+82.  [2/9/23, 8:20 PM] Rachel (Elyx PT): Your HRV is looking a bit low today. Let's work on stress management in our next session.
+83.  [2/9/23, 9:10 AM] Advik (Elyx Lifestyle): How's your sleep been lately? I'm thinking of sharing some tips to improve it.
+84.  [2/9/23, 11:15 AM] Carla (Elyx Nutrition): Just had a CGM spike today! Trying to figure out what triggered it.
+85.  [2/9/23, 12:45 PM] Advik (Elyx Lifestyle): Hey Carla, how's your daily routine been? Any changes recently?
+86.  [2/10/23, 8:45 AM] Carla (Elyx Nutrition): Based on your CGM data, it seems your blood sugar levels have been a bit higher lately. Have you considered adding some chromium supplements to help regulate them?
+87.  [2/11/23, 9:00 AM] Carla (Elyx Nutrition): 45 PM Carla: Your HRV is still low, let's discuss stress management strategies in our next call.
+88.  [2/11/23, 11:00 AM] Carla (Elyx Nutrition): 10 PM Rachel: Nice job on the steps today! Keep that up and we can reassess your workout routine.
+89.  [2/11/23, 2:45 PM] Carla (Elyx Nutrition): 55 AM Advik: Don't forget to drink plenty of water throughout the day, especially with those high blood sugar readings.
+90.  [2/13/23, 9:45 AM] Carla (Elyx Nutrition): Noticing a spike in CGM, let's review diet for last 24 hours.
+91.  [2/13/23, 2:45 PM] Carla (Elyx Nutrition): 47 AM Ruby: Great to catch up with you! Your daily steps are up this week, keep it going.
+92.  [2/13/23, 7:15 PM] Carla (Elyx Nutrition): 01 AM Neel: Hi, we noticed a slight dip in your HRV this week. Would you like to discuss some strategies to improve it?
+93.  [2/20/23, 9:45 AM] Ruby (Elyx Concierge): Your daily summary looks great! Steps are up, sleep is consistent, and HRV is good. Let's discuss your CGM numbers. What do you think about the slight increase in mean blood sugar?
+94.  [2/20/23, 10:15 AM] Neel (Elyx Concierge Lead): Hi, just wanted to follow up on your CGM data. The recent spike on the 12th of July is worth noting. Would you like to discuss potential strategies to manage that?
+95.  [2/20/23, 11:30 AM] Carla (Elyx Nutrition): Hey, just a quick reminder to review your nutrition plan. With your recent CGM readings, we might need to make some adjustments to your macronutrient ratios. Let me know when you're free to discuss.
+96.  [2/21/23, 10:45 AM] Carla (Elyx Nutrition): Your CGM data is looking a bit high today, let's discuss the panel results to see if there's anything we can adjust.
+97.  [2/21/23, 11:10 AM] Dr. Warren (Elyx Medical): I've reviewed the scheduled panel, everything appears to be in order. I'll be in touch once the results are in.
+98.  [2/22/23, 10:45 AM] Carla (Elyx Nutrition): Just had a CGM spike, need to review diet for today.
+99.  [2/22/23, 11:07 AM] Advik (Elyx Lifestyle): How's your sleep been lately? That spike might be related.
+100.  [2/22/23, 11:20 AM] Carla (Elyx Nutrition): It's been decent, 6.27 hours last night.
+101.  [2/25/23, 9:45 AM] Rachel (Elyx PT): Great job on those 4806 steps today! How's your stress levels been lately?
+102.  [2/25/23, 10:10 AM] Advik (Elyx Lifestyle): Just had a great workout. Feeling really energized now.
+103.  [2/26/23, 9:45 AM] Carla (Elyx Nutrition): Just reviewed your daily summary, your HRV is a bit low today. Let's discuss how to improve it in our next session.
+104.  [2/26/23, 11:10 AM] Rachel (Elyx PT): Great job on the steps today! I noticed your RHR is a bit high, we can work on that in our next PT session.
+105.  [2/26/23, 12:20 PM] Advik (Elyx Lifestyle): Your CGM data shows a peak of 160.4 mg/dL. How are you managing your blood sugar levels?
+106.  [2/26/23, 9:45 AM] Carla (Elyx Nutrition): Looks like your CGM spike is related to diet change. Let's review your meal plan for yesterday.
+107.  [2/26/23, 10:10 AM] Advik (Elyx Lifestyle): Your daily steps are impressive, but sleep could be better. Prioritize 7-8 hours tonight.
+108.  [2/27/23, 8:45 AM] Carla (Elyx Nutrition): 45 PM Carla: Your autonomic stress levels seem to be impacting your sleep and HRV. Let's discuss ways to manage it.
+109.  [2/27/23, 7:45 AM] Carla (Elyx Nutrition): 10 PM Rachel: Great job on the 3925 steps today! Remember to stay hydrated and keep an eye on your CGM readings.
+110.  [2/27/23, 1:00 PM] Carla (Elyx Nutrition): 50 PM Advik: Try to relax before bed and aim for a consistent sleep schedule. This will help regulate your autonomic stress.
+111.  [2/27/23, 10:45 AM] Carla (Elyx Nutrition): Just had a CGM spike, need to review diet change.
+112.  [2/27/23, 11:15 AM] Advik (Elyx Lifestyle): How's your sleep been? Your HRV is a bit low today.
+113.  [2/27/23, 9:45 AM] Ruby (Elyx Concierge): Great job on the steps this week, 3925 is a big increase from last week. Keep it up!
+114.  [2/27/23, 10:10 AM] Neel (Elyx Concierge Lead): Your HRV is looking good, 50.6 is a healthy reading. Keep monitoring your progress.
+115.  [2/27/23, 11:05 AM] Carla (Elyx Nutrition): I noticed your CGM mean is slightly higher than last week. Have you made any changes to your diet recently?
+116.  [3/1/23, 8:45 AM] Carla (Elyx Nutrition): Just had a CGM spike, let's review your diet for today and see if we can identify any triggers.
+117.  [3/1/23, 9:10 AM] Advik (Elyx Lifestyle): Your daily steps are a bit low today, Carla. Did you hit the gym or try to get in a walk during your breaks?
+118.  [3/1/23, 9:25 AM] Carla (Elyx Nutrition): Actually, Advik, I did get in a 30-minute walk during lunch. My HRV is also a bit lower than usual, so maybe we should discuss some stress-reducing techniques.
+119.  [3/2/23, 9:45 AM] Rachel (Elyx PT): Good morning! Your daily steps are up, but let's focus on improving sleep quality. What's your plan for tonight?
+120.  [3/2/23, 10:10 AM] Carla (Elyx Nutrition): Just a reminder to check your CGM data and see how your blood sugar levels are trending. We can discuss strategies to optimize them.
+121.  [3/2/23, 2:15 PM] Advik (Elyx Lifestyle): How's your hydration today? Make sure to drink plenty of water throughout the day to stay energized and focused.
+122.  [3/2/23, 9:45 AM] Carla (Elyx Nutrition): Noted the CGM spike today. Let's review your diet for potential triggers.
+123.  [3/2/23, 12:15 PM] Advik (Elyx Lifestyle): Your daily steps are impressive, but we should look at your sleep quality too. How's your sleep been lately?
+124.  [3/2/23, 2:50 PM] Carla (Elyx Nutrition): Your RHR is a bit high. Have you been experiencing any stress or anxiety lately?
+125.  [3/5/23, 9:45 AM] Carla (Elyx Nutrition): Just saw your daily summary, impressive steps today! How's your autonomic stress been lately?
+126.  [3/5/23, 11:15 AM] Rachel (Elyx PT): Great job on the exercise update! I've noticed your HRV is a bit lower than usual, is there anything we can work on to improve that?
+127.  [3/5/23, 12:30 PM] Advik (Elyx Lifestyle): Your CGM data is looking interesting, especially the spike on the 4th. Let's discuss this in our next call.
+128.  [3/6/23, 9:45 AM] Carla (Elyx Nutrition): Great job on the 5385 steps today! Keep it up.
+129.  [3/6/23, 10:10 AM] Neel (Elyx Concierge Lead): Hi, just a quick check-in. How's your sleep been lately?
+130.  [3/6/23, 12:30 PM] Ruby (Elyx Concierge): Your HRV is looking good at 44.9. What's your plan for the rest of the day?
+131.  [3/7/23, 10:45 AM] Carla (Elyx Nutrition): Just had a huge CGM spike, need to review diet for today and see what triggered it.
+132.  [3/7/23, 12:05 PM] Advik (Elyx Lifestyle): Hey Carla, how's your daily routine looking? Your steps are lower than usual, is everything okay?
+133.  [3/7/23, 9:45 AM] Carla (Elyx Nutrition): Your daily steps are up, but let's keep an eye on those CGM numbers. Schedule a follow-up appointment to discuss further.
+134.  [3/7/23, 10:10 AM] Dr. Warren (Elyx Medical): I've reviewed your recent CGM data. Your mean glucose levels are slightly elevated. I'd like to discuss potential adjustments to your treatment plan.
+135.  [3/9/23, 9:45 AM] Carla (Elyx Nutrition): Your daily steps are slightly lower than usual, but HRV is looking good. Let's work on increasing those steps tomorrow.
+136.  [3/9/23, 10:10 AM] Rachel (Elyx PT): Just a heads up, I noticed your sleep was a bit short last night. We can discuss strategies to improve sleep quality during our next session.
+137.  [3/9/23, 12:20 PM] Advik (Elyx Lifestyle): Your CGM readings are showing some variation. Are you experiencing any symptoms or stressors that could be affecting your blood glucose levels?
+138.  [3/10/23, 10:45 AM] Carla (Elyx Nutrition): 'Hey, noticed your HRV is a bit low today. Are you feeling stressed?'
+139.  [3/10/23, 12:10 PM] Rachel (Elyx PT): 'Great job on the 3869 steps! Let's focus on some stress-reducing exercises today.'
+140.  [3/10/23, 2:20 PM] Advik (Elyx Lifestyle): 'How's your sleep been lately? We can work on some relaxation techniques if needed.'
+141.  [3/10/23, 9:45 AM] Carla (Elyx Nutrition): Just had a CGM spike, need to review my diet change from yesterday. Steps were good at 3869 but sleep could've been better.
+142.  [3/10/23, 10:10 AM] Advik (Elyx Lifestyle): Hey Carla, how's your RHR looking today? That spike might be related to stress or something else entirely.
+143.  [3/10/23, 9:45 AM] Carla (Elyx Nutrition): Great job on those steps yesterday! Keep it up.
+144.  [3/12/23, 10:45 AM] Carla (Elyx Nutrition): Just saw your CGM spike today, let's review your diet change.
+145.  [3/12/23, 11:15 AM] Advik (Elyx Lifestyle): Your daily steps are impressive, but let's work on improving your sleep quality.
+146.  [3/12/23, 12:30 PM] Carla (Elyx Nutrition): We need to discuss your RHR, it's a bit high.
+147.  [3/13/23, 9:45 AM] Ruby (Elyx Concierge): Great job on the steps this week, 3191 is a big boost! Keep it up.
+148.  [3/14/23, 9:45 AM] Advik (Elyx Lifestyle): Hey Carla, noticed a CGM spike today. Steps were decent at 3084 but sleep was a bit off at 7.72 hours. What do you think I should focus on?
+149.  [3/14/23, 12:15 PM] Carla (Elyx Nutrition): Advik, let's review your recent wearable data. There's a trend of high steps but inconsistent sleep. We should discuss strategies to stabilize your sleep patterns.
+150.  [3/15/23, 12:45 PM] Carla (Elyx Nutrition): Your HRV is a bit low today, let's work on some stress-reducing techniques.
+151.  [3/15/23, 2:10 PM] Rachel (Elyx PT): Great job on getting 4055 steps in! Keep that up and we can discuss increasing your daily goal.
+152.  [3/15/23, 9:50 AM] Advik (Elyx Lifestyle): Your CGM numbers are looking good, but let's focus on maintaining a balanced diet to support those readings.
+153.  [3/16/23, 10:45 AM] Carla (Elyx Nutrition): Hey, noticed a CGM spike today. Steps were decent at 3677, but sleep was a bit low at 6.75 hours. Let's review your diet and see if we can make some adjustments.
+154.  [3/16/23, 2:15 PM] Advik (Elyx Lifestyle): Hey, just wanted to check in on your wearable data. It looks like you've had some good days with steps, but sleep and HRV are still missing. Can you wear it consistently for a week so we can get a better picture?
+155.  [3/17/23, 9:45 AM] Carla (Elyx Nutrition): Your HRV is still a bit low, let's work on stress management techniques in your next session.
+156.  [3/17/23, 10:05 AM] Rachel (Elyx PT): Great job on the steps today! Keep that up and we can discuss increasing your intensity in our next workout.
+157.  [3/17/23, 11:15 AM] Advik (Elyx Lifestyle): Noticed your CGM peak was a bit high today. Have you been eating any sugary snacks or drinks lately?
+158.  [3/17/23, 10:45 AM] Carla (Elyx Nutrition): Hey, noticed a CGM spike today. Steps were okay, but sleep was a bit off. Let's review the data.
+159.  [3/18/23, 10:45 AM] Carla (Elyx Nutrition): Great job on the 4003 steps today! Let's work on increasing your HRV.
+160.  [3/18/23, 2:10 PM] Rachel (Elyx PT): Your autonomic stress levels seem high. Have you been experiencing any stressors lately?
+161.  [3/18/23, 8:50 PM] Advik (Elyx Lifestyle): I see your CGM numbers have been fluctuating. Are you making any changes to your diet or lifestyle?
+162.  [3/18/23, 10:45 AM] Carla (Elyx Nutrition): Just saw your CGM spike today. Did you eat something heavy or is it just a random spike?
+163.  [3/18/23, 12:15 PM] Advik (Elyx Lifestyle): Hey, I noticed your sleep was a bit low today. Try to get some more rest tonight and see if it affects your CGM readings tomorrow.
+164.  [3/20/23, 9:45 AM] Ruby (Elyx Concierge): Hey, just wanted to touch base on your weekly check-in. Your daily steps are looking good, but your sleep could use some improvement. Let's discuss.
+165.  [3/20/23, 10:15 AM] Neel (Elyx Concierge Lead): Hi, I've been reviewing your CGM data and noticed a slight increase in your mean glucose levels over the past few months. Would you like to discuss some strategies to optimize your glucose control?
+166.  [3/20/23, 11:30 AM] Carla (Elyx Nutrition): Hey, I've been looking at your daily summaries, and your HRV is looking a bit low. Have you been experiencing any stress or anxiety lately?
+167.  [3/21/23, 9:45 AM] Carla (Elyx Nutrition): Your daily steps are a bit lower than usual, but sleep quality looks good. Let's review the scheduled diagnostic panel results.
+168.  [3/21/23, 11:05 AM] Dr. Warren (Elyx Medical): I've reviewed your CGM data. The recent spike on 3/2 might be worth discussing. Shall we schedule a call to go over it?
+169.  [3/23/23, 9:45 AM] Carla (Elyx Nutrition): Your daily stress levels seem to be impacting your autonomic nervous system. Let's discuss ways to manage stress through nutrition.
+170.  [3/23/23, 11:10 AM] Rachel (Elyx PT): With your HRV at 27.8, it's clear your body is under stress. We should incorporate some stress-reducing exercises into your routine.
+171.  [3/23/23, 2:20 PM] Advik (Elyx Lifestyle): Considering your CGM data, it seems your blood sugar levels are fluctuating. I'd recommend focusing on balanced meals to stabilize your glucose levels.
+172.  [3/26/23, 10:45 AM] Carla (Elyx Nutrition): Just saw your CGM spike today, let's discuss possible causes and adjustments to your diet plan.
+173.  [3/26/23, 12:15 PM] Advik (Elyx Lifestyle): How's your sleep quality been lately? We can work on some lifestyle tweaks to help regulate your circadian rhythms.
+174.  [3/27/23, 9:45 AM] Carla (Elyx Nutrition): Just saw your CGM spike today. Let's review your diet change and see if we can make some adjustments.
+175.  [3/27/23, 10:15 AM] Advik (Elyx Lifestyle): Hey, how's your sleep been lately? Your daily summary shows 5.89 hours of sleep. Try to get some more rest tonight.
+176.  [3/27/23, 9:45 AM] Ruby (Elyx Concierge): Great to catch up, Carla! Your CGM data looks stable. What's your plan for the upcoming week?
+177.  [3/27/23, 10:15 AM] Carla (Elyx Nutrition): Thanks, Ruby! I'm focusing on maintaining my current routine and tracking my macros. Will keep you updated on my progress.
+178.  [3/27/23, 10:30 AM] Neel (Elyx Concierge Lead): Hey team, let's review the RAG evidence snippets. We have some interesting data points from the past few months.
+179.  [3/29/23, 9:45 AM] Rachel (Elyx PT): Your daily stats look good today! Steps are up and sleep is on point. Keep it up!
+180.  [3/29/23, 10:20 AM] Carla (Elyx Nutrition): Did you notice your CGM numbers are a bit higher than usual? Let's discuss this in our next call.
+181.  [3/29/23, 11:15 AM] Advik (Elyx Lifestyle): Time to move! You've been sitting for a while. Get up and stretch, or better yet, take a short walk.
+182.  [3/29/23, 10:45 AM] Carla (Elyx Nutrition): Just saw your CGM spike today. Did you make any changes to your diet recently?
+183.  [3/29/23, 2:15 PM] Carla (Elyx Nutrition): Your daily steps are a bit lower than usual. Are you feeling okay or just having a relaxed day?
+184.  [3/29/23, 8:50 PM] Advik (Elyx Lifestyle): Hey, I noticed you had a decent sleep last night. How's your HRV looking?
+185.  [3/31/23, 9:45 AM] Carla (Elyx Nutrition): Just had a CGM spike, let's review my diet change. What do you think I should adjust?
+186.  [3/31/23, 12:15 PM] Advik (Elyx Lifestyle): Hey Carla, that spike might be due to a carb-heavy meal. Try reducing your carb intake for the next meal and see how it affects your CGM.
+187.  [3/31/23, 2:10 PM] Carla (Elyx Nutrition): Will do, Advik. Also, my daily steps are lower than usual. Should I increase my physical activity to compensate?
+188.  [4/1/23, 9:45 AM] Carla (Elyx Nutrition): Great job on the 3268 steps today! Keep up the good work.
+189.  [4/1/23, 10:10 AM] Rachel (Elyx PT): Your HRV is looking good at 38.0, but we can work on reducing that stress. Let's chat about it.
+190.  [4/1/23, 11:25 AM] Advik (Elyx Lifestyle): Just saw your CGM data. Your mean is a bit higher than usual. Are you experiencing any stress or anxiety lately?
+191.  [4/1/23, 10:45 AM] Carla (Elyx Nutrition): Noticed a CGM spike today, let's review your diet from last night.
+192.  [4/1/23, 11:10 AM] Advik (Elyx Lifestyle): Your daily steps are looking good at 3268, but we should discuss your sleep quality further.
+193.  [4/1/23, 12:05 PM] Carla (Elyx Nutrition): We should also look into your HRV reading of 38.0, is that within your normal range?
+194.  [4/2/23, 10:45 AM] Carla (Elyx Nutrition): Just checked your CGM data, noticed a spike today. Let's discuss your diet change.
+195.  [4/2/23, 11:10 AM] Advik (Elyx Lifestyle): Hey, your daily steps are impressive at 4221. How's your sleep been lately?
+196.  [4/2/23, 12:30 PM] Carla (Elyx Nutrition): I've been going over your wearable data. It looks like your step count has been fluctuating.
+197.  [4/3/23, 10:45 AM] Ruby (Elyx Concierge): Hey, just checking in on your progress. Steps are up, but HRV is a bit lower than usual. How's your day going so far?
+198.  [4/3/23, 11:30 AM] Neel (Elyx Concierge Lead): Hi, just reviewing your CGM data. Noticed a slight increase in mean glucose levels over the past week. Would you like to discuss some adjustments to your nutrition plan?
+199.  [4/3/23, 12:15 PM] Carla (Elyx Nutrition): Hey, just wanted to remind you to stay hydrated today. Aim for at least 8 cups of water. Also, don't forget to take your supplements as scheduled.
+200.  [4/5/23, 9:45 AM] Carla (Elyx Nutrition): Just had a CGM spike, need to review diet change.
+201.  [4/7/23, 10:45 AM] Carla (Elyx Nutrition): Your daily steps are on the higher side, but your sleep could use some improvement. Let's discuss this in our next session.
+202.  [4/7/23, 3:15 PM] Dr. Warren (Elyx Medical): Based on your CGM data, it seems your blood glucose levels have been fluctuating. I'd like to discuss this further and adjust your medication plan if necessary.
+203.  [4/7/23, 8:30 PM] Advik (Elyx Lifestyle): Remember to stay hydrated and eat a balanced diet to support your overall health. Your CGM data suggests you're on the right track, but consistency is key.
+204.  [4/10/23, 10:45 AM] Ruby (Elyx Concierge): Great to catch up! Your daily steps are looking strong, but I noticed a slight dip in your sleep last week. Are you feeling okay?
+205.  [4/10/23, 11:15 AM] Neel (Elyx Concierge Lead): Hey, let's review your CGM data. It seems like your blood glucose levels have been relatively stable, but there's a slight increase in your peak readings lately. Would you like to discuss some possible adjustments?
+206.  [4/10/23, 12:10 PM] Carla (Elyx Nutrition): Hi! I noticed your HRV is a bit lower than usual. Have you been experiencing any stress or anxiety lately?
+207.  [4/10/23, 9:45 AM] Carla (Elyx Nutrition): Great job on the 3728 steps today! Keep that energy up.
+208.  [4/12/23, 10:45 AM] Carla (Elyx Nutrition): Just had a CGM spike, need to adjust my diet.
+209.  [4/12/23, 11:15 AM] Advik (Elyx Lifestyle): How's your sleep been lately?
+210.  [4/14/23, 9:45 AM] Carla (Elyx Nutrition): Your HRV is a bit low today, try incorporating some stress-reducing activities into your routine.
+211.  [4/14/23, 11:15 AM] Rachel (Elyx PT): Great job on the 5527 steps! Let's work on increasing your intensity and duration for the next workout.
+212.  [4/14/23, 2:30 PM] Advik (Elyx Lifestyle): Your CGM data shows a slight dip in blood sugar levels. Make sure to eat a balanced meal with protein and healthy fats to stabilize your levels.
+213.  [4/17/23, 10:45 AM] Ruby (Elyx Concierge): Great job on the 5071 steps today! How's your hydration been?
+214.  [4/17/23, 11:10 AM] Neel (Elyx Concierge Lead): Your HRV is looking good at 35.4. Have you noticed any changes in your sleep patterns lately?
+215.  [4/17/23, 12:20 PM] Carla (Elyx Nutrition): Your CGM numbers are trending well. Let's discuss your nutrition plan to support those numbers.
+216.  [4/18/23, 9:45 AM] Carla (Elyx Nutrition): Your autonomic stress levels seem to be stable, but let's discuss your CGM results from last week.
+217.  [4/18/23, 10:10 AM] Rachel (Elyx PT): Great job on those 4882 steps! How's your sleep quality been lately?
+218.  [4/18/23, 11:20 AM] Advik (Elyx Lifestyle): Just a heads up, I noticed your peak CGM reading was 145.6 mg/dL. Would you like to discuss some strategies to manage it?
+219.  [4/19/23, 10:45 AM] Carla (Elyx Nutrition): Noticing a spike in your CGM reading today. Have you made any changes to your diet recently?
+220.  [4/19/23, 12:15 PM] Advik (Elyx Lifestyle): Hey Carla, I've noticed a connection between diet changes and CGM spikes in the past. Can we discuss possible adjustments to your meal plan?
+221.  [4/19/23, 2:30 PM] Carla (Elyx Nutrition): That's a great point, Advik. Let's review your daily summary and see if there's a correlation between your diet and the spike in your CGM reading.
+222.  [4/20/23, 9:45 AM] Carla (Elyx Nutrition): Great job on those steps today! Keep it up.
+223.  [4/20/23, 11:10 AM] Rachel (Elyx PT): Just saw your HRV and RHR - looks like you're managing stress well. Keep exercising!
+224.  [4/20/23, 2:30 PM] Advik (Elyx Lifestyle): Don't forget to stay hydrated, especially with those high CGM peaks.
+225.  [4/21/23, 10:45 AM] Carla (Elyx Nutrition): Just saw your CGM spike, let's review your diet change and see if we can optimize it for better results.
+226.  [4/21/23, 11:15 AM] Advik (Elyx Lifestyle): Hey, how's your sleep been lately? Your daily summary shows 6.29 hours, is that consistent for you?
+227.  [4/21/23, 10:45 AM] Carla (Elyx Nutrition): Your daily steps are up, keep it going! 4525 steps is a great start.
+228.  [4/22/23, 2:45 PM] Carla (Elyx Nutrition): Your CGM spike today is higher than usual. Let's review your diet and see if we can identify any patterns.
+229.  [4/24/23, 9:45 AM] Carla (Elyx Nutrition): Just had a CGM spike, need to review diet change. Steps were decent today though.
+230.  [4/24/23, 10:05 AM] Advik (Elyx Lifestyle): Hey Carla, how's your hydration? Did you drink enough water today?
+231.  [4/24/23, 10:20 AM] Carla (Elyx Nutrition): Advik, yeah I had 2L of water today. Think it's the carb-heavy breakfast that caused the spike.
+232.  [4/24/23, 2:45 PM] Ruby (Elyx Concierge): Hey, just checking in on your progress. Your daily steps are looking great, but your sleep could use some improvement.
+233.  [4/24/23, 3:10 PM] Neel (Elyx Concierge Lead): Hi, I noticed your HRV is a bit lower than usual. Have you been experiencing any stress lately?
+234.  [5/1/23, 10:45 AM] Ruby (Elyx Concierge): Hey, just wanted to touch base on your weekly check-in. Your daily steps are up, but your CGM numbers are a bit higher than usual. Let's discuss.
+235.  [5/1/23, 11:15 AM] Neel (Elyx Concierge Lead): Hi, I've taken a look at your data. Your HRV is slightly lower than last week, but your RHR is still within a healthy range. We can review your CGM data to see if there are any patterns.
+236.  [5/1/23, 12:30 PM] Carla (Elyx Nutrition): Hi, just a reminder to stay hydrated and keep an eye on your CGM numbers. Your mean glucose level is a bit higher than your usual range. Let's schedule a call to discuss further.
+237.  [5/2/23, 9:45 AM] Rachel (Elyx PT): Your daily steps are down from yesterday, let's work on increasing that today. What's your plan?
+238.  [5/2/23, 11:10 AM] Advik (Elyx Lifestyle): Just had a quick workout and feeling energized. Time for a healthy breakfast to fuel up for the day.
+239.  [5/2/23, 3:20 PM] Rachel (Elyx PT): Your HRV is a bit low today, make sure to stay hydrated and take breaks throughout the day.
+240.  [5/2/23, 10:45 AM] Carla (Elyx Nutrition): Noticing a CGM spike today, let's review your diet and see if we can identify any triggers.
+241.  [5/2/23, 12:15 PM] Advik (Elyx Lifestyle): How's your hydration level today? Sometimes a CGM spike can be a sign of dehydration.
+242.  [5/6/23, 2:45 PM] Carla (Elyx Nutrition): Just reviewed your CGM data from today and noticed a spike. Let's discuss how we can adjust your diet to prevent this in the future.
+243.  [5/6/23, 3:10 PM] Advik (Elyx Lifestyle): Your daily steps are impressive at 5594! How's your hydration been?
+244.  [5/7/23, 12:45 PM] Carla (Elyx Nutrition): Just had a big spike in my CGM reading after lunch. Time to review my diet change.
+245.  [5/7/23, 9:45 AM] Carla (Elyx Nutrition): Just reviewed your daily data, noticed your steps are up but HRV is a bit low. Let's discuss at your appointment.
+246.  [5/7/23, 10:10 AM] Dr. Warren (Elyx Medical): Your CGM data shows some variability, especially on 7/12 and 3/2. We'll review this in more detail during your diagnostic order.
+247.  [5/8/23, 9:45 AM] Ruby (Elyx Concierge): Hey! Great to see you're moving 4527 steps today. How's your sleep been this week?
+248.  [5/8/23, 10:10 AM] Neel (Elyx Concierge Lead): Hi, just a quick check-in on your CGM data. We've got some interesting trends emerging. Would love to discuss further.
+249.  [5/8/23, 11:30 AM] Carla (Elyx Nutrition): Morning! I noticed your RHR is a bit higher than usual. Have you noticed any changes in your diet or stress levels lately?
+250.  [5/9/23, 10:45 AM] Carla (Elyx Nutrition): Just had a CGM spike, need to review diet for today.
+251.  [5/9/23, 11:15 AM] Advik (Elyx Lifestyle): How's your sleep been lately? Your HRV is a bit low.
+252.  [5/9/23, 12:30 PM] Carla (Elyx Nutrition): Just checked my wearable data, noticed a drop in steps on 2/23, might be a good day to focus on exercise.
+253.  [5/10/23, 9:45 AM] Carla (Elyx Nutrition): Your daily steps are great, but let's work on your sleep quality. Aim for 7-8 hours tonight.
+254.  [5/11/23, 9:45 AM] Carla (Elyx Nutrition): Great job on the 5825 steps today! Keep that energy up.
+255.  [5/11/23, 10:10 AM] Rachel (Elyx PT): Your HRV is a bit low at 24.3. Let's work on some stress-reducing exercises.
+256.  [5/11/23, 11:20 AM] Advik (Elyx Lifestyle): How's your sleep been lately? 7.75 hours is a good start, but we can work on optimizing your routine.
+257.  [5/13/23, 10:45 AM] Carla (Elyx Nutrition): Just had a CGM spike, time to review my diet change. Let's see what triggered it.
+258.  [5/13/23, 2:10 PM] Advik (Elyx Lifestyle): Hey Carla, how's your sleep been? Your HRV is a bit low today.
+259.  [5/15/23, 10:45 AM] Carla (Elyx Nutrition): Just had a CGM spike, need to review diet change. Any suggestions?
+260.  [5/15/23, 11:10 AM] Advik (Elyx Lifestyle): Hey Carla, try adjusting your macros for the next meal. Also, how's your hydration level today?
+261.  [5/15/23, 11:30 AM] Carla (Elyx Nutrition): Thanks Advik, I'll check my macros. My hydration level is okay, but I did have a bit of caffeine this morning.
+262.  [5/15/23, 10:45 AM] Ruby (Elyx Concierge): Great to catch up! Your daily steps are impressive, but I see your HRV is a bit lower than usual. Would you like to discuss any changes to your routine?
+263.  [5/15/23, 12:15 PM] Neel (Elyx Concierge Lead): Hi, just a quick check-in. Your CGM data shows some fluctuations. Would you like me to review the trends and offer some suggestions?
+264.  [5/15/23, 2:10 PM] Carla (Elyx Nutrition): Hi, I noticed your RHR is a bit higher than usual. Have you made any changes to your diet or exercise routine recently?
+265.  [5/16/23, 9:45 AM] Rachel (Elyx PT): Your HRV is a bit low today, let's work on some stress-reducing exercises.
+266.  [5/16/23, 10:10 AM] Carla (Elyx Nutrition): Remember to stay hydrated, especially with your CGM readings being a bit higher than usual.
+267.  [5/16/23, 11:20 AM] Advik (Elyx Lifestyle): Aim for 7-8 hours of sleep tonight to see if we can improve your HRV reading tomorrow.
+268.  [5/16/23, 2:45 PM] Carla (Elyx Nutrition): Just had a CGM spike after dinner. Need to review my diet change for today.
+269.  [5/16/23, 3:10 PM] Advik (Elyx Lifestyle): How was your sleep quality last night? Your daily steps are looking good at 4991.
+270.  [5/17/23, 10:45 AM] Carla (Elyx Nutrition): Hey, noticed a spike in your CGM reading today. What's your diet been like lately?
+271.  [5/17/23, 12:15 PM] Advik (Elyx Lifestyle): Hey, just saw your daily summary. You've been quite active, 5685 steps is impressive! How's your sleep been?
+272.  [5/18/23, 11:45 AM] Rachel (Elyx PT): Great job on the steps today! Keep up the good work.
+273.  [5/18/23, 02:10 PM] Carla (Elyx Nutrition): Don't forget to stay hydrated, especially after your intense workout today.
+274.  [5/18/23, 08:50 PM] Advik (Elyx Lifestyle): How's your sleep been? Try to get some relaxation techniques in place to improve it.
+275.  [5/20/23, 10:45 AM] Carla (Elyx Nutrition): Just had a CGM spike, let's review your diet change and see if we can identify any patterns.
+276.  [5/20/23, 11:15 AM] Advik (Elyx Lifestyle): How's your sleep quality been lately? We can also look into your wearable data to see if there's any correlation with your steps and HRV.
+277.  [5/20/23, 12:05 PM] Carla (Elyx Nutrition): Your daily steps are decent, but let's focus on optimizing your diet and reducing those spikes.
+278.  [5/21/23, 9:45 AM] Carla (Elyx Nutrition): Just had a CGM spike, let's review your diet for today and see if we can identify any triggers.
+279.  [5/21/23, 10:10 AM] Advik (Elyx Lifestyle): Hey, how's your sleep been lately? That 6.4 hours last night is a bit low for me.
+280.  [5/21/23, 10:15 AM] Carla (Elyx Nutrition): Your daily steps are a bit low today, let's aim for 7,000+ to support overall health.
+281.  [5/21/23, 8:45 AM] Dr. Warren (Elyx Medical): Your RHR is a bit elevated, I'd like to discuss this further during your scheduled panel.
+282.  [5/22/23, 10:15 AM] Ruby (Elyx Concierge): Hey, weekly check-in! Your daily steps are up, but HRV is a bit lower than usual. Let's review your CGM data to see if we can spot any patterns.
+283.  [5/22/23, 11:45 AM] Neel (Elyx Concierge Lead): Hi, I've taken a look at your CGM history. There's been a slight increase in mean glucose levels over the past few months. We should discuss some adjustments to your nutrition plan.
+284.  [5/22/23, 2:10 PM] Carla (Elyx Nutrition): Hi, just a quick note on your CGM data. Your peak glucose levels seem to be fluctuating quite a bit. I'd like to discuss some strategies to help stabilize them.
+285.  [5/23/23, 10:45 AM] Carla (Elyx Nutrition): Great job on the steps today! Let's work on improving your sleep quality.
+286.  [5/23/23, 12:15 PM] Rachel (Elyx PT): Your HRV is a bit low today, try to relax and reduce stress levels.
+287.  [5/23/23, 2:10 PM] Advik (Elyx Lifestyle): I see your CGM numbers have been fluctuating. Let's discuss this in our next session.
+288.  [5/25/23, 10:45 AM] Carla (Elyx Nutrition): Just had a CGM spike, let's review my diet change. What do you think I should adjust?
+289.  [5/25/23, 11:10 AM] Advik (Elyx Lifestyle): Hey Carla, I see your steps are high today. Did you do anything differently?
+290.  [5/29/23, 9:45 AM] Ruby (Elyx Concierge): Hey, weekly check-in! Your daily steps are up, but HRV is a bit lower than usual. Let's discuss.
+291.  [5/29/23, 11:10 AM] Neel (Elyx Concierge Lead): Hi, just reviewed your CGM data. Peak readings seem to be increasing. We should discuss strategies to manage them.
+292.  [5/29/23, 2:30 PM] Carla (Elyx Nutrition): Hey, your RHR is a bit higher than usual. Have you noticed any changes in your diet or sleep patterns recently?
+293.  [6/1/23, 10:45 AM] Carla (Elyx Nutrition): Just had a CGM spike, need to review diet change.
+294.  [6/1/23, 11:04 AM] Advik (Elyx Lifestyle): How's your sleep been lately? That spike might be related.
+295.  [6/1/23, 11:15 AM] Carla (Elyx Nutrition): Actually, it's been pretty good, 6.78 hours last night.
+296.  [6/3/23, 10:45 AM] Carla (Elyx Nutrition): Just had a CGM spike, need to review diet for today.
+297.  [6/5/23, 9:45 AM] Carla (Elyx Nutrition): Just saw your daily summary, how's that CGM spike affecting your diet change?
+298.  [6/5/23, 10:45 AM] Ruby (Elyx Concierge): Great job on the steps this week, 4570 is a big increase! Keep it up.
+299.  [6/5/23, 11:10 AM] Neel (Elyx Concierge Lead): Your HRV is looking good at 35.5, keep an eye on that.
+300.  [6/7/23, 9:45 AM] Carla (Elyx Nutrition): Just reviewed your CGM data from today. That spike is quite high. Let's discuss possible causes and adjustments to your diet.
+301.  [6/7/23, 11:10 AM] Carla (Elyx Nutrition): Your daily activity is impressive with 5113 steps! Keep up the good work. I'd love to see you hit 6000+ steps tomorrow.
+302.  [6/7/23, 2:05 PM] Advik (Elyx Lifestyle): Hey, how's your sleep been lately? Your HRV is looking a bit low at 41.5. Maybe we can work on some relaxation techniques to improve that.
+303.  [6/7/23, 9:45 AM] Carla (Elyx Nutrition): Your daily steps are up, keep it going! 5113 steps today.
+304.  [6/7/23, 10:15 AM] Dr. Warren (Elyx Medical): Your recent CGM data shows a slight increase in mean glucose levels, let's keep an eye on it.
+305.  [6/9/23, 10:45 AM] Carla (Elyx Nutrition): Hey, noticed a spike in your CGM reading today. Let's review your diet and see if we can make some adjustments.
+306.  [6/9/23, 12:15 PM] Advik (Elyx Lifestyle): Remember to stay hydrated and move regularly throughout the day. Your steps are good but let's aim for more consistent sleep.
+307.  [6/10/23, 9:45 AM] Carla (Elyx Nutrition): Great job on hitting 4201 steps today! Keep that energy up.
+308.  [6/11/23, 9:45 AM] Carla (Elyx Nutrition): Your autonomic stress levels seem to be impacting your sleep and HRV. Let's discuss ways to mitigate this.
+309.  [6/11/23, 2:10 PM] Rachel (Elyx PT): Considering your recent CGM data, your blood glucose levels have been fluctuating. I recommend we adjust your workout routine to better manage these spikes.
+310.  [6/11/23, 5:50 PM] Advik (Elyx Lifestyle): It's essential to note that your recent CGM data shows a higher mean glucose level compared to previous months. We should discuss this further and explore ways to optimize your nutrition plan.
+311.  [6/12/23, 9:45 AM] Ruby (Elyx Concierge): Hey, weekly check-in! Your daily steps are up, but your sleep is a bit low. Let's discuss how to improve that.
+312.  [6/12/23, 10:10 AM] Neel (Elyx Concierge Lead): Hi Carla, I've been reviewing the CGM data. It looks like your mean glucose levels are trending upwards. We should discuss this further.
+313.  [6/12/23, 11:15 AM] Carla (Elyx Nutrition): Hi Neel, thanks for reviewing the data. I've been feeling a bit off lately. Can we schedule a call to discuss the CGM results and come up with a plan to get my levels back on track?
+314.  [6/13/23, 9:45 AM] Carla (Elyx Nutrition): Just had a CGM spike, let's review the daily data. Steps were 4217, sleep was 6.0 hours, HRV was 38.9, and RHR was 65.
+315.  [6/13/23, 10:10 AM] Advik (Elyx Lifestyle): Hey Carla, noticed your steps were pretty high today but sleep was low. How's your diet been?
+316.  [6/14/23, 10:45 AM] Carla (Elyx Nutrition): Great job on the 3985 steps today! Keep up the active lifestyle.
+317.  [6/14/23, 12:10 PM] Rachel (Elyx PT): Your HRV is looking a bit low today. Let's discuss some stress management techniques in our next session.
+318.  [6/14/23, 9:50 AM] Advik (Elyx Lifestyle): I see your CGM is showing a slight increase in mean glucose levels. Have you made any changes to your diet recently?
+319.  [6/15/23, 10:45 AM] Carla (Elyx Nutrition): Your daily stats look solid, but let's work on that HRV score. What's your plan for stress management today?
+320.  [6/15/23, 2:10 PM] Rachel (Elyx PT): Great job on those steps! Remember to keep your CGM in check, especially with those peaks. Let's discuss your exercise plan for the week.
+321.  [6/15/23, 8:20 PM] Advik (Elyx Lifestyle): How's your sleep been lately? With a mean CGM of 104.3, let's focus on getting those z's.
+322.  [6/18/23, 10:45 AM] Carla (Elyx Nutrition): Just saw your CGM spike, let's review your diet change. What did you eat before the spike?
+323.  [6/18/23, 11:10 AM] Carla (Elyx Nutrition): Also, I noticed your steps are a bit lower than usual. Did you take a different route today?
+324.  [6/18/23, 12:05 PM] Advik (Elyx Lifestyle): Remember to prioritize sleep tonight, your HRV is a bit low. Try to get at least 7 hours of sleep.
+325.  [6/19/23, 10:45 AM] Carla (Elyx Nutrition): Just had a CGM spike today, back to tracking my macros and hydration.
+326.  [6/19/23, 11:05 AM] Advik (Elyx Lifestyle): How's your sleep been lately? Your HRV is a bit low today.
+327.  [6/19/23, 10:45 AM] Ruby (Elyx Concierge): Hey, weekly check-in! Your steps are up this week, keep it going. What's your plan for the rest of the day?
+328.  [6/19/23, 11:15 AM] Neel (Elyx Concierge Lead): Great to see your HRV up at 33.8. What changes have you made to your routine recently?
+329.  [6/21/23, 9:45 AM] Carla (Elyx Nutrition): Just saw your CGM spike, let's discuss what might have caused it today.
+330.  [6/21/23, 10:05 AM] Carla (Elyx Nutrition): Also, your daily steps are lower than usual, is everything okay?
+331.  [6/21/23, 10:20 AM] Advik (Elyx Lifestyle): Hey, how's your sleep quality been lately? Your HRV is a bit lower than usual.
+332.  [6/21/23, 10:45 AM] Carla (Elyx Nutrition): Just reviewed your CGM data, noticed a spike in mean glucose levels. Let's discuss this at our next appointment.
+333.  [6/21/23, 2:10 PM] Dr. Warren (Elyx Medical): Your daily steps and sleep quality look good. However, I'd like to discuss your HRV and RHR readings, which are slightly lower than usual.
+334.  [6/22/23, 6:45 PM] Carla (Elyx Nutrition): 45 AM Carla: Just had a CGM spike, need to review diet change. Steps were 3059, sleep 4.75 hours, HRV 37.4 and RHR 67.
+335.  [6/22/23, 11:15 AM] Carla (Elyx Nutrition): 10 PM Advik: Hey Carla, how's your diet change going? Want to discuss some lifestyle tweaks to balance it out?
+336.  [6/22/23, 4:00 PM] Carla (Elyx Nutrition): 20 PM Carla: Advik, I've been tracking my CGM and it's been spiking after meals. Need to adjust my macros.
+337.  [6/26/23, 10:45 AM] Ruby (Elyx Concierge): Great progress on your steps this week! Keep it up. What's your plan for the upcoming weekend?
+338.  [6/26/23, 12:15 PM] Neel (Elyx Concierge Lead): Your HRV is looking good, but let's work on bringing down that RHR. Have you considered incorporating some stress-reducing activities?
+339.  [6/26/23, 2:30 PM] Carla (Elyx Nutrition): I noticed your CGM mean is trending upwards. Are you making any changes to your diet or supplements that could be contributing to this?
+340.  [6/27/23, 10:45 AM] Carla (Elyx Nutrition): Your autonomic stress levels seem high today, given your HRV of 26.7. Let's discuss some strategies to manage it.
+341.  [6/27/23, 12:15 PM] Rachel (Elyx PT): Remember to stretch after your workout today. Your high steps count suggests you pushed yourself hard.
+342.  [6/27/23, 8:50 PM] Advik (Elyx Lifestyle): Your CGM data is showing a slight increase in mean glucose levels. Are you adjusting your diet accordingly?
+343.  [6/27/23, 9:45 AM] Carla (Elyx Nutrition): Just had a CGM spike, need to review diet change. Steps were good today though, 4646.
+344.  [6/27/23, 10:10 AM] Advik (Elyx Lifestyle): How's your sleep been lately? Your daily summary shows 5.58 hours last night.
+345.  [6/29/23, 12:04 PM] Rachel (Elyx PT): Your daily steps are up, but sleep and HRV are a bit off. Let's discuss during our next session.
+346.  [6/29/23, 9:45 AM] Advik (Elyx Lifestyle): Just got my CGM results for today. Mean glucose is 102.8, peak at 97.6.
+347.  [7/1/23, 9:45 AM] Carla (Elyx Nutrition): Your HRV is a bit lower than usual, might be worth exploring some relaxation techniques to manage autonomic stress.
+348.  [7/1/23, 12:15 PM] Rachel (Elyx PT): Remember to stretch after your workout today. We can also discuss some stress-reducing exercises in our next session.
+349.  [7/1/23, 3:30 PM] Advik (Elyx Lifestyle): Your CGM data shows some fluctuations. Let's discuss how to optimize your nutrition plan to better manage blood sugar levels.
+350.  [7/1/23, 8:45 AM] Carla (Elyx Nutrition): Just saw your CGM spike today, let's review your diet change and see if there's anything we can adjust to prevent it in the future.
+351.  [7/1/23, 9:15 AM] Advik (Elyx Lifestyle): Your daily steps are a bit lower than usual, Carla mentioned reviewing your diet, but I'd like to check if you're getting enough physical activity.
+352.  [7/3/23, 9:45 AM] Ruby (Elyx Concierge): Hey, just wanted to check in on your progress. Your daily steps are looking great, but we should discuss your CGM readings from the past few months.
+353.  [7/3/23, 10:10 AM] Neel (Elyx Concierge Lead): Hi, I've taken a look at your CGM data. We'll need to schedule a call to discuss the recent spikes in your blood sugar levels.
+354.  [7/3/23, 11:05 AM] Carla (Elyx Nutrition): Hi, I noticed your daily sleep has been a bit low lately. Can you tell me a bit more about your sleep schedule and any changes you've made recently?
+355.  [7/4/23, 9:45 AM] Carla (Elyx Nutrition): Your HRV is a bit low today, let's work on stress management techniques.
+356.  [7/4/23, 11:10 AM] Rachel (Elyx PT): Great job on the steps today! Remember to prioritize sleep and nutrition for optimal recovery.
+357.  [7/4/23, 2:15 PM] Advik (Elyx Lifestyle): Keep an eye on those CGM peaks, we can adjust your macros to better manage blood sugar spikes.
+358.  [7/4/23, 10:45 AM] Carla (Elyx Nutrition): Just saw your CGM spike, let's review your diet change and see what triggered it.
+359.  [7/4/23, 11:10 AM] Advik (Elyx Lifestyle): Hey, how's your sleep quality been? Your HRV is a bit low, might want to look into that.
+360.  [7/7/23, 9:45 AM] Carla (Elyx Nutrition): Your daily steps are up, but HRV is a bit low. Let's discuss this in our next call.
+361.  [7/7/23, 10:10 AM] Dr. Warren (Elyx Medical): I've reviewed your CGM data. The recent spike in mean glucose levels is concerning. We need to adjust your treatment plan.
+362.  [7/8/23, 9:45 AM] Carla (Elyx Nutrition): Your HRV is a bit low today, let's focus on stress management techniques in our next session.
+363.  [7/8/23, 11:15 AM] Rachel (Elyx PT): Great job on the 3410 steps today! Remember to stay hydrated and keep those CGM numbers in check.
+364.  [7/8/23, 6:20 PM] Advik (Elyx Lifestyle): How's your sleep been lately? With your RHR at 68, it's a good idea to aim for 7-8 hours of restful sleep each night.
+365.  [7/10/23, 9:45 AM] Carla (Elyx Nutrition): Just had a CGM spike, let's review your diet change and see if we can identify any patterns.
+366.  [7/10/23, 11:15 AM] Advik (Elyx Lifestyle): Hey, how's your daily step count looking? 3803 is a good number, but we can work on increasing it further.
+367.  [7/10/23, 9:30 PM] Carla (Elyx Nutrition): 45 AM Ruby: Hey, just checking in on your progress. Your daily steps are up, but your CGM numbers are a bit higher than usual. Let's discuss.
+368.  [7/10/23, 7:00 AM] Carla (Elyx Nutrition): 10 AM Neel: Hi, I noticed your HRV has dropped a bit. Are you feeling any changes in your energy levels?
+369.  [7/10/23, 9:45 AM] Carla (Elyx Nutrition): Hey, your daily steps are great but your blood sugar levels seem a bit high today. Let's discuss some nutrition suggestions to balance it out.
+370.  [7/11/23, 12:45 PM] Carla (Elyx Nutrition): Great job on the 2513 steps today! Keep that energy up.
+371.  [7/11/23, 8:10 PM] Rachel (Elyx PT): Your HRV is looking a bit low today, let's work on some stress-reducing exercises.
+372.  [7/11/23, 9:50 PM] Advik (Elyx Lifestyle): How's your sleep been lately? We can discuss some strategies to improve it.
+373.  [7/11/23, 9:45 AM] Carla (Elyx Nutrition): Just saw your CGM spike today. Did you eat something different for breakfast?
+374.  [7/11/23, 10:10 AM] Advik (Elyx Lifestyle): Hey, let's review your daily habits. What's your typical breakfast and lunch routine?
+375.  [7/12/23, 10:45 AM] Carla (Elyx Nutrition): Just saw your CGM spike today, let's review your diet and see if we can make some adjustments.
+376.  [7/12/23, 11:10 AM] Advik (Elyx Lifestyle): How's your hydration been lately? Sometimes spikes can be due to dehydration, especially with the heat we've been having.
+377.  [7/12/23, 12:05 PM] Carla (Elyx Nutrition): Also, I noticed your steps were a bit lower than usual today. Are you feeling okay or was it just a lazy day?
+378.  [7/14/23, 9:45 AM] Carla (Elyx Nutrition): Need to review diet change impact on CGM spikes. What were your food choices today?
+379.  [7/14/23, 11:10 AM] Advik (Elyx Lifestyle): Your daily steps are impressive, but let's work on improving sleep quality. What's your evening routine like?
+380.  [7/16/23, 10:45 AM] Carla (Elyx Nutrition): Just had a CGM spike today, let's review my diet change.
+381.  [7/17/23, 10:45 AM] Carla (Elyx Nutrition): Great job on the 3437 steps today! Keep it up.
+382.  [7/17/23, 8:10 PM] Rachel (Elyx PT): Your HRV is looking a bit low today. Let's discuss some stress management strategies.
+383.  [7/17/23, 2:15 PM] Advik (Elyx Lifestyle): Your mean CGM reading has increased by 11.1mg/dL since 2/24. What's changed in your diet?
+384.  [7/17/23, 11:45 AM] Carla (Elyx Nutrition): Just had a CGM spike, let's review your diet change and see if we can make some adjustments.
+385.  [7/17/23, 3:10 PM] Advik (Elyx Lifestyle): Your daily steps are looking good at 3437, but I'd like to see you increase your sleep duration.
+386.  [7/17/23, 9:45 AM] Ruby (Elyx Concierge): Hi Neel, just reviewed the weekly check-in data. Steps are up, but HRV is a bit lower than usual. Would love to discuss further.
+387.  [7/17/23, 11:15 AM] Neel (Elyx Concierge Lead): Hi Carla, noticed the CGM data is showing some fluctuations. Can you help us understand the peak on 7/12 and how it compares to previous readings?
+388.  [7/17/23, 12:30 PM] Carla (Elyx Nutrition): Hi Ruby, just took a closer look at the CGM data. The peak on 7/12 was indeed higher than usual, but the mean is still within a relatively stable range. Let's keep an eye on it.
+389.  [7/18/23, 9:45 AM] Carla (Elyx Nutrition): CGM spike today, let's review your diet change. What did you eat before the spike?
+390.  [7/18/23, 11:10 AM] Advik (Elyx Lifestyle): Hey, I noticed your steps are down from usual. Did you take a different route to work today or just had a slower day?
+391.  [7/18/23, 2:05 PM] Carla (Elyx Nutrition): Your HRV is a bit low today. Are you feeling stressed or anxious about anything?
+392.  [7/19/23, 12:45 PM] Rachel (Elyx PT): Your daily stress levels seem high today, let's work on some relaxation techniques in our next session.
+393.  [7/19/23, 02:10 PM] Advik (Elyx Lifestyle): Did you know that regular exercise can help reduce stress and anxiety? Let's discuss some stress-reducing workouts for you.
+394.  [7/19/23, 9:45 AM] Carla (Elyx Nutrition): Just had a CGM spike after dinner. Need to review my diet change.
+395.  [7/19/23, 10:15 AM] Advik (Elyx Lifestyle): How's your sleep been lately? Your daily summary shows 7.81 hours last night.
+396.  [7/20/23, 9:45 AM] Carla (Elyx Nutrition): Just had a CGM spike, need to review diet changes. Steps were good today at 4878.
+397.  [7/20/23, 10:10 AM] Advik (Elyx Lifestyle): How's your sleep been lately? Your HRV is at 39.3, which is a bit low.
+398.  [7/21/23, 9:45 AM] Carla (Elyx Nutrition): Your daily steps are up, but your sleep is a bit low. Let's discuss ways to improve that tonight.
+399.  [7/21/23, 10:10 AM] Dr. Warren (Elyx Medical): Your HRV is slightly lower than usual, which could be a sign of stress. I recommend taking some time to relax today.
+400.  [7/23/23, 10:45 AM] Carla (Elyx Nutrition): Just had a CGM spike, let's review your diet change and see what triggered it.
+401.  [7/23/23, 12:15 PM] Advik (Elyx Lifestyle): How's your sleep been lately? Your HRV is a bit low at 49.1, might want to look into improving that.
+402.  [7/23/23, 2:10 PM] Carla (Elyx Nutrition): Your daily steps are good, but let's work on increasing your HRV and RHR for better overall health.
+403.  [7/24/23, 10:45 AM] Ruby (Elyx Concierge): Great to catch up! Your daily steps are up, but sleep and HRV could use some work. Let's discuss ways to improve those.
+404.  [7/24/23, 11:10 AM] Neel (Elyx Concierge Lead): Hey, I see your CGM data is showing some fluctuations. We can work on optimizing your nutrition plan to help stabilize those readings.
+405.  [7/24/23, 12:05 PM] Advik (Elyx Lifestyle): Your daily summary looks good, but I'd love to discuss ways to further improve your sleep quality. Would you be open to some new relaxation techniques?
+406.  [7/27/23, 9:45 AM] Carla (Elyx Nutrition): Great job on your exercise update today! Let's discuss autonomic stress and how it affects your body.
+407.  [7/27/23, 10:10 AM] Rachel (Elyx PT): Your daily summary looks good but we need to work on your HRV. Let's schedule a PT session to improve your stress management.
+408.  [7/27/23, 11:20 AM] Advik (Elyx Lifestyle): Your CGM data shows some fluctuations. Have you considered adjusting your diet to maintain stable blood sugar levels?
+409.  [7/27/23, 10:45 AM] Carla (Elyx Nutrition): Hey, noticed a spike in your CGM reading today. Did you eat something new or different?
+410.  [7/27/23, 12:15 PM] Advik (Elyx Lifestyle): Hey, how's your hydration level? Sometimes spikes can be due to dehydration.
+411.  [7/29/23, 10:45 AM] Carla (Elyx Nutrition): Just saw your CGM spike, let's discuss your diet change and see how we can adjust it to prevent future spikes.
+412.  [7/29/23, 12:15 PM] Advik (Elyx Lifestyle): Hey, how's your sleep been lately? Your daily summary shows 6.52 hours, is that a consistent number for you?
+413.  [7/29/23, 8:20 PM] Carla (Elyx Nutrition): I noticed your mean CGM reading is a bit high, 125.6. Have you been tracking your food intake closely?
+414.  [7/31/23, 10:45 AM] Carla (Elyx Nutrition): Just saw your CGM spike today. What did you eat before it happened?
+415.  [7/31/23, 11:15 AM] Advik (Elyx Lifestyle): Hey, your daily steps are down today. Did you take a different route or was it a busy day?
+416.  [7/31/23, 10:45 AM] Ruby (Elyx Concierge): Hey, just checking in on your progress. Your daily steps are up, but HRV is a bit lower than usual. How's your hydration been?
+417.  [7/31/23, 12:30 PM] Neel (Elyx Concierge Lead): Hi, I noticed your CGM readings have been fluctuating. The peak on the 20th was lower than usual. Are you experiencing any changes in your diet or stress levels?
+418.  [7/31/23, 2:10 PM] Carla (Elyx Nutrition): Great job on your sleep! With your daily steps and sleep, let's discuss your nutrition plan to optimize your blood sugar control. Would you like to schedule a call?
+419.  [8/1/23, 10:45 AM] Carla (Elyx Nutrition): Just had a CGM spike, let's review your diet change and see what triggered it.
+420.  [8/1/23, 12:10 PM] Advik (Elyx Lifestyle): Hey, I see your daily steps are down from usual, did you change your workout routine recently?
+421.  [8/1/23, 2:30 PM] Carla (Elyx Nutrition): Your HRV is a bit low, are you getting enough sleep and managing stress?
+422.  [8/3/23, 10:45 AM] Carla (Elyx Nutrition): Just had a CGM spike, need to review diet change.
+423.  [8/6/23, 10:45 AM] Carla (Elyx Nutrition): Just saw your CGM spike today. What's your diet been like lately?
+424.  [8/6/23, 11:15 AM] Advik (Elyx Lifestyle): Hey, your daily steps are down from usual. Did you change your routine or take a break?
+425.  [8/7/23, 10:45 AM] Carla (Elyx Nutrition): Your daily steps are a bit low today, let's aim for 5000+ to improve insulin sensitivity.
+426.  [8/7/23, 12:15 PM] Dr. Warren (Elyx Medical): Your recent CGM data shows a high peak on 07/12. I'd like to discuss this further during our scheduled panel.
+427.  [8/7/23, 9:45 AM] Carla (Elyx Nutrition): Your daily steps are up 10% from last week, keep it up! Also, your CGM mean is 120.1 mg/dL, let's discuss this in our call today.
+428.  [8/7/23, 10:10 AM] Ruby (Elyx Concierge): Hi, just a heads up that our team has updated your schedule for the week. You have a call with Carla at 11 AM today.
+429.  [8/7/23, 11:00 AM] Neel (Elyx Concierge Lead): Great to see your HRV is 34.5 today, that's a good sign. Let's review your CGM data from the past few months during our call today.
+430.  [8/10/23, 10:45 AM] Carla (Elyx Nutrition): Great day so far! With 5440 steps and 7.3 hours of sleep, you're off to a great start. Let's focus on optimizing your nutrition to support your energy levels.
+431.  [8/11/23, 10:45 AM] Carla (Elyx Nutrition): Just saw your CGM spike today, let's review your diet change and see if we can find any patterns.
+432.  [8/11/23, 11:15 AM] Advik (Elyx Lifestyle): Your HRV is looking a bit low today, Carla mentioned reviewing your diet. Maybe try some relaxation techniques to help with that.
+433.  [8/12/23, 9:45 AM] Carla (Elyx Nutrition): Just had a huge CGM spike. Think it's time to reassess my diet.
+434.  [8/12/23, 10:10 AM] Advik (Elyx Lifestyle): Hey Carla, how's your hydration been? Sometimes spikes can be due to dehydration.
+435.  [8/14/23, 9:45 AM] Ruby (Elyx Concierge): Hey, just wanted to touch base on your weekly check-in. How's your day going so far?
+436.  [8/14/23, 10:10 AM] Neel (Elyx Concierge Lead): Hi, I noticed your HRV is a bit lower than usual. Would you like to discuss some strategies to improve it?
+437.  [8/14/23, 11:15 AM] Carla (Elyx Nutrition): Your CGM data from 8/20 shows a good trend. Let's schedule a call to discuss your nutrition plan and how it's impacting your blood sugar levels.
+438.  [8/15/23, 11:45 AM] Advik (Elyx Lifestyle): Hey, noticed a spike in your CGM today. Let's review your diet change and see if we can make some adjustments.
+439.  [8/15/23, 1:10 PM] Carla (Elyx Nutrition): What's your daily water intake been like lately? Sometimes dehydration can cause those spikes.
+440.  [8/16/23, 2:45 PM] Rachel (Elyx PT): Autonomic stress levels are high today, let's review your exercise plan for tomorrow.
+441.  [8/16/23, 9:10 AM] Advik (Elyx Lifestyle): Your daily steps are impressive at 4126, keep up the good work on your fitness goals.
+442.  [8/16/23, 3:45 PM] Carla (Elyx Nutrition): Just had a CGM spike after dinner. Need to review my diet for today.
+443.  [8/16/23, 4:10 PM] Carla (Elyx Nutrition): Steps were good today (4126) but sleep could be better (7.99 hours).
+444.  [8/16/23, 4:25 PM] Advik (Elyx Lifestyle): Did you know that even a 30-minute power nap can improve your HRV?
+445.  [8/17/23, 9:45 AM] Carla (Elyx Nutrition): Just had a CGM spike, need to review diet change. Steps were good today though, 4939.
+446.  [8/17/23, 10:10 AM] Advik (Elyx Lifestyle): Hey Carla, how's your sleep been lately? Your HRV is looking a bit low at 32.4.
+447.  [8/17/23, 11:05 AM] Carla (Elyx Nutrition): Advik, I've been sleeping pretty well, 7.96 hours last night. But I'm concerned about that spike, think I'll review my macros.
+448.  [8/18/23, 9:45 AM] Carla (Elyx Nutrition): Your daily summary looks good, but let's work on reducing that heart rate variability. What's your plan for today?
+449.  [8/18/23, 10:10 AM] Rachel (Elyx PT): Just reviewed your CGM data. Noticed a spike on July 12th. Did you experience any stress or unusual events around that time?
+450.  [8/18/23, 11:20 AM] Advik (Elyx Lifestyle): Remember to stay hydrated today, especially with those high steps. Aim for at least 8 glasses of water.
+451.  [8/19/23, 4:45 PM] Carla (Elyx Nutrition): Had a spike in CGM today, let's review your diet and see if we can make some adjustments.
+452.  [8/19/23, 6:10 PM] Advik (Elyx Lifestyle): Your daily steps are looking good, but we should talk about your sleep quality. It's been affecting your HRV.
+453.  [8/21/23, 10:45 AM] Carla (Elyx Nutrition): Your autonomic stress levels seem high today, let's discuss some strategies to manage it during our next call.
+454.  [8/21/23, 12:15 PM] Rachel (Elyx PT): Just saw your daily summary, nice job on the steps! Remember to stay hydrated and keep an eye on those CGM numbers.
+455.  [8/21/23, 9:50 AM] Advik (Elyx Lifestyle): Noticed your RHR is a bit higher than usual. Are you getting enough sleep and managing stress?
+456.  [8/21/23, 2:45 PM] Carla (Elyx Nutrition): Your daily steps are looking good at 9408, keep it up!
+457.  [8/21/23, 3:10 PM] Dr. Warren (Elyx Medical): I've ordered a diagnostic panel to be scheduled for you. We'll discuss the results soon.
+458.  [8/21/23, 10:45 AM] Ruby (Elyx Concierge): Hey, just checked in on your progress. Steps are up, but sleep could be better. Let's discuss your CGM data from last week.
+459.  [8/21/23, 11:10 AM] Neel (Elyx Concierge Lead): Hi, I've reviewed your CGM history. There's a noticeable trend of higher mean readings in July and August. Would you like to discuss possible causes and adjustments?
+460.  [8/21/23, 12:15 PM] Carla (Elyx Nutrition): Hi, just a quick note on your daily metrics. Your HRV is a bit low today. Make sure to stay hydrated and take breaks throughout the day.
+461.  [8/22/23, 10:45 AM] Carla (Elyx Nutrition): Just saw your CGM spike today. What did you eat beforehand?
+462.  [8/22/23, 11:15 AM] Advik (Elyx Lifestyle): Hey, your daily steps are looking good at 8470. Keep it up!
+463.  [8/27/23, 4:45 PM] Carla (Elyx Nutrition): Just had a CGM spike, need to review diet change and see what triggered it.
+464.  [8/28/23, 10:45 AM] Ruby (Elyx Concierge): Hey, just checking in on your progress. How's your daily routine going?
+465.  [8/28/23, 11:10 AM] Neel (Elyx Concierge Lead): Great to see your HRV is back up. Keep up the good work. Did you notice any changes in your CGM readings?
+466.  [8/28/23, 12:20 PM] Carla (Elyx Nutrition): Your RHR is a bit higher than usual. Are you experiencing any stress or anxiety lately?
+467.  [8/29/23, 9:45 AM] Carla (Elyx Nutrition): Just had a CGM spike, let's review your diet change and see if we can identify any patterns.
+468.  [8/29/23, 10:30 AM] Advik (Elyx Lifestyle): Morning! Your daily summary looks great - 7507 steps and 7.6 hours of sleep. How's your hydration today?
+469.  [8/30/23, 10:45 AM] Rachel (Elyx PT): Your daily steps are impressive, but let's work on those sleep hours. What's your bedtime plan tonight?
+470.  [8/30/23, 12:15 PM] Advik (Elyx Lifestyle): Hey, just a heads up that I've noticed your HRV is a bit low today. Maybe we can discuss some stress-reducing techniques during our next call?
+471.  [8/30/23, 11:45 AM] Carla (Elyx Nutrition): Just saw your CGM spike today. What did you eat before it happened?
+472.  [8/30/23, 12:10 PM] Advik (Elyx Lifestyle): Hey, I noticed you've been pretty active today. Did you try to incorporate some strength training into your routine?
+473.  [8/30/23, 1:05 PM] Carla (Elyx Nutrition): Your daily steps are impressive, but how's your HRV looking? Are you feeling stressed or relaxed?

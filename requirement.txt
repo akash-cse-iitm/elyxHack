@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+torch
+transformers
+sentence-transformers
+chromadb
+groq
+python-dotenv
+python-dateutil
+graphviz
